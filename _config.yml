@@ -1,10 +1,10 @@
 ## Settings
 title: BLOG
-owner: "---------"
-url: ""
-baseurl: ""
+owner: "Mehmet Ozdemir"
+url: "https://github.com/mehmett420"
+baseurl: "/mehmett420"
 permalink: /:title/
-description: ""
+description: "----------------"
 markdown: kramdown
 webrick:
   headers:
