@@ -10,5 +10,3 @@ author: ""
 encrypted_text: true
 permalink: /
 ---
-
-# PERSONAL HOMEPAGE
